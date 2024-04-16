@@ -1,9 +1,10 @@
 *MAIN*
 
 Archivo de prueba
-text 1
-texto 2
-mucho texto
+1text
+2texto2
+3 mucho texto
 4ta linea
-5lin
+5line
 666
+8lines
