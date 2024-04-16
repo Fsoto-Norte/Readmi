@@ -6,8 +6,7 @@ Archivo de prueba
 3 mucho texto
 4ta linea
 5line
-666
+666 lin
 7 faltaba
 8lines
 9lineass
-10local
