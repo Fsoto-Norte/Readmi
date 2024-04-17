@@ -1,14 +1,14 @@
 *MAIN*
 
 Archivo de prueba
-1text
-2texto2
-3 mucho texto
-4ta linea
-5line
-666 lin
-7 faltaba
-8lines
-9lineass
-10 liii
-11 l1ne4s
+B1text
+C2texto2
+D3 mucho texto
+E4ta linea
+F5line
+G666 lin
+H7 faltaba
+I8lines
+J9lineass
+K10 liii
+L11 l1ne4s
