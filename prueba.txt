@@ -4,9 +4,7 @@ Archivo de prueba
 B1text
 C2texto2
 D3 mucho texto
-E4ta linea
-F5line
-G666 lin
+E4
 H7 faltaba
 I8lines
 J9lineass
