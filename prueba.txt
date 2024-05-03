@@ -17,4 +17,4 @@ borrar
 borr
 123
 123
-ISSUES #1
+ISSUE #2 resuelto
