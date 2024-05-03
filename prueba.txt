@@ -17,4 +17,4 @@ borrar
 borr
 123
 123
-ISSUE #2 resuelto
+ISSUE #2 fixed solves
